@@ -1,6 +1,6 @@
 # LogicSim
 
-LogicSim is a desktop JavaFX application. It was an attempt at rewriting an older project https://github.com/jakubito11/logicsim that was written as a web appliaction written in JavaScript. Written during a Java course at FEL CTU.
+LogicSim is a desktop JavaFX application. It was an attempt at rewriting an older project https://github.com/jakubito11/logicsim that was written as a web appliaction written in JavaScript. Written during a Java course at FEE CTU.
 
 ## What can you do?
 
@@ -27,7 +27,7 @@ Components can be simulated
 ### 1) Launching from the source code of the project
 
 ```bash
-git clone https://github.com/jakubito11/logicsim_javafx.git
+git clone https://github.com/jakubito11/logicsim-javafx.git
 cd sausajak
 mvn clean javafx:run
 ```
