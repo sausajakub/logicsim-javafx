@@ -28,7 +28,7 @@ Components can be simulated
 
 ```bash
 git clone https://github.com/sausajakub/logicsim-javafx.git
-cd logicsim-javafx-main
+cd logicsim-javafx
 mvn clean javafx:run
 ```
 
